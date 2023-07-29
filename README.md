@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Anshul sahu, a final year B.Tech student. I am proficient in Data Structures and Algorithms.
-- 👀 I’m interested in coding and problem solving
+- 👋 Hi, I’m Anshul sahu, a final year B.Tech student.
+- 👀 I’m interested in coding, problem solving and learning new technologies.
 - 🌱 I’m currently learning Web Development.
 - 📫 You can reach me on Linkedin : https://www.linkedin.com/in/anshulsahu-as44.
 
